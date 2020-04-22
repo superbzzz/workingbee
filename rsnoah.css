@@ -14,7 +14,7 @@ header {
     margin: 0 auto;
 }
 
-h1 {
+.background h1 {
     font-size: 40px;
     font-family: 'Open Sans', sans-serif;
     font-style: italic;
@@ -65,7 +65,7 @@ h1 {
     width:0px
 }
 
-h3 { 
+.background h3 { 
     color: #d1dbbd;
     opacity: 0.8;
     font-size: 25px;
@@ -148,14 +148,14 @@ h3 {
     width:0px
 }
 
-hr {
+.background hr {
     background-color: #ff8b5c;
     border: #ff8b5c solid 1px;
     width: 200px;
     height: 4px;
 }
 
-h4 {
+.background h4 {
     font-family: 'Open Sans', sans-serif;
     font-size: 25px;
     color: #ff8b5c;
