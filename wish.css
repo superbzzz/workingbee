@@ -23,6 +23,7 @@
     color: #37393A;
     padding-left: 10px;
     padding-right: 30px;
+    line-height: 90%;
     margin: 30px 0px 0px 0px;
     box-sizing: border-box;
 }
@@ -68,7 +69,6 @@ header {
     font-family: 'Roboto', serif;
     font-size: 10px;
     color: #37393A;
-    line-height: 90%;
     padding: 0px 5px 5px 0px;
     text-align: justify;
     text-justify: auto;
